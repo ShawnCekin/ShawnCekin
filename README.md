@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<p>🧑‍💻: I'm a passionate backend developer from Singore 🇸🇬</p>
+<p>🧑‍💻: I'm a passionate backend developer from Singapore 🇸🇬</p>
 <p>📍: Living in Singore 🦁</p>
 <p>📫: How to reach me: <strong>shawncekin@gmail.com</strong></p> 
 <p><strong>P.S: I am very passionate about maintainability, scalability and modularity in code.<strong/></p>
